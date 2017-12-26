@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\bin\Debug\03BarracksFactory.exe.config
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\bin\Debug\03BarracksFactory.exe
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\bin\Debug\03BarracksFactory.pdb
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\obj\Debug\03BarracksFactory.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\obj\Debug\03BarracksFactory.exe
+C:\softuni\C# OOP Advanced\homework\Reflection\03BarracksFactory\03BarracksFactory\obj\Debug\03BarracksFactory.pdb

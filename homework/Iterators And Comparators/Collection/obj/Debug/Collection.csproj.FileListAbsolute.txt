@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\bin\Debug\Collection.exe.config
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\bin\Debug\Collection.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\bin\Debug\Collection.pdb
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\obj\Debug\Collection.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\obj\Debug\Collection.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Collection\obj\Debug\Collection.pdb

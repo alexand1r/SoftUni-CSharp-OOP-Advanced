@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Deck of Cards\bin\Debug\Deck of Cards.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Deck of Cards\bin\Debug\Deck of Cards.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Deck of Cards\bin\Debug\Deck of Cards.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Deck of Cards\obj\Debug\Deck of Cards.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Deck of Cards\obj\Debug\Deck of Cards.pdb

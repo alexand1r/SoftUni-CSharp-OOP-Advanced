@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\bin\Debug\Collection Hierarchy.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\bin\Debug\Collection Hierarchy.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\bin\Debug\Collection Hierarchy.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\obj\Debug\Collection Hierarchy.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\obj\Debug\Collection Hierarchy.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Collection Hierarchy\obj\Debug\Collection Hierarchy.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Explicit Interfaces\bin\Debug\Explicit Interfaces.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Explicit Interfaces\bin\Debug\Explicit Interfaces.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Explicit Interfaces\bin\Debug\Explicit Interfaces.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Explicit Interfaces\obj\Debug\Explicit Interfaces.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Explicit Interfaces\obj\Debug\Explicit Interfaces.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card CompareTo\bin\Debug\Card CompareTo.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card CompareTo\bin\Debug\Card CompareTo.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card CompareTo\bin\Debug\Card CompareTo.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card CompareTo\obj\Debug\Card CompareTo.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card CompareTo\obj\Debug\Card CompareTo.pdb

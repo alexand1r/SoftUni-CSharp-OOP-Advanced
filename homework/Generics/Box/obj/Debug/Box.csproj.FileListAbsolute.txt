@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Box\bin\Debug\Box.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Box\bin\Debug\Box.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Box\bin\Debug\Box.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Box\obj\Debug\Box.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Generics\Box\obj\Debug\Box.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Box\obj\Debug\Box.pdb

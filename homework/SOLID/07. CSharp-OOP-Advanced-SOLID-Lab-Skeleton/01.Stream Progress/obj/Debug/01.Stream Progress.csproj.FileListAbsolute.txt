@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\bin\Debug\01.Stream Progress.exe.config
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\bin\Debug\01.Stream Progress.exe
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\bin\Debug\01.Stream Progress.pdb
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\obj\Debug\01.Stream Progress.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\obj\Debug\01.Stream Progress.exe
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\01.Stream Progress\obj\Debug\01.Stream Progress.pdb

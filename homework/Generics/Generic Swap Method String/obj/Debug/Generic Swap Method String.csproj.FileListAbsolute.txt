@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\bin\Debug\Generic Swap Method String.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\bin\Debug\Generic Swap Method String.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\bin\Debug\Generic Swap Method String.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\obj\Debug\Generic Swap Method String.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\obj\Debug\Generic Swap Method String.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Swap Method String\obj\Debug\Generic Swap Method String.pdb

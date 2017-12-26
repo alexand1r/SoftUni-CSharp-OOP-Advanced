@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Count Method String\bin\Debug\Generic Count Method String.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Count Method String\bin\Debug\Generic Count Method String.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Count Method String\bin\Debug\Generic Count Method String.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Count Method String\obj\Debug\Generic Count Method String.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Generic Count Method String\obj\Debug\Generic Count Method String.pdb

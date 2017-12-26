@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Strategy Pattern\bin\Debug\Strategy Pattern.exe.config
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Strategy Pattern\bin\Debug\Strategy Pattern.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Strategy Pattern\bin\Debug\Strategy Pattern.pdb
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Strategy Pattern\obj\Debug\Strategy Pattern.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Strategy Pattern\obj\Debug\Strategy Pattern.pdb

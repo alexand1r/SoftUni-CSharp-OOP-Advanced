@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Scale\bin\Debug\Scale.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Scale\bin\Debug\Scale.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Scale\bin\Debug\Scale.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Scale\obj\Debug\Scale.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Scale\obj\Debug\Scale.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Ferrari\bin\Debug\Ferrari.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Ferrari\bin\Debug\Ferrari.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Ferrari\bin\Debug\Ferrari.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Ferrari\obj\Debug\Ferrari.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Ferrari\obj\Debug\Ferrari.pdb

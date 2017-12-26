@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Library\bin\Debug\Library.exe.config
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Library\bin\Debug\Library.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Library\bin\Debug\Library.pdb
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Library\obj\Debug\Library.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Library\obj\Debug\Library.pdb

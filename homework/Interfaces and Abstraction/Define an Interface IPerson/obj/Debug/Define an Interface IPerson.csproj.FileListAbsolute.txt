@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Define an Interface IPerson\bin\Debug\Define an Interface IPerson.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Define an Interface IPerson\obj\Debug\Define an Interface IPerson.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Define an Interface IPerson\obj\Debug\Define an Interface IPerson.pdb

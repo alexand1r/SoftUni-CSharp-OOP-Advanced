@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Create Custom Class Attribute\bin\Debug\Create Custom Class Attribute.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Create Custom Class Attribute\obj\Debug\Create Custom Class Attribute.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Create Custom Class Attribute\obj\Debug\Create Custom Class Attribute.pdb

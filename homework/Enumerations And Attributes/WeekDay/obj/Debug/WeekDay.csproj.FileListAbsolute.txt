@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\bin\Debug\WeekDay.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\bin\Debug\WeekDay.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\bin\Debug\WeekDay.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\obj\Debug\WeekDay.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\obj\Debug\WeekDay.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\WeekDay\obj\Debug\WeekDay.pdb

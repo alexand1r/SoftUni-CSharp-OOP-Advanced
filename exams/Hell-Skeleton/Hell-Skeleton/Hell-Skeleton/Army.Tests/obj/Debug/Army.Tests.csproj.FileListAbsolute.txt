@@ -1,0 +1,1 @@
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Army.Tests\obj\Debug\Army.Tests.csprojResolveAssemblyReference.cache

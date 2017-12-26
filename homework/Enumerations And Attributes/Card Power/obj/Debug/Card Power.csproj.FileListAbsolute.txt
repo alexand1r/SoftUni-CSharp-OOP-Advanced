@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Power\bin\Debug\Card Power.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Power\bin\Debug\Card Power.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Power\bin\Debug\Card Power.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Power\obj\Debug\Card Power.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Power\obj\Debug\Card Power.pdb

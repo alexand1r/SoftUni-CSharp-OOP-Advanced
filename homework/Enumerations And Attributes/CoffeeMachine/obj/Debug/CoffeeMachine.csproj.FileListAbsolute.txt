@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\CoffeeMachine\bin\Debug\CoffeeMachine.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\CoffeeMachine\bin\Debug\CoffeeMachine.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\CoffeeMachine\bin\Debug\CoffeeMachine.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\CoffeeMachine\obj\Debug\CoffeeMachine.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\CoffeeMachine\obj\Debug\CoffeeMachine.pdb

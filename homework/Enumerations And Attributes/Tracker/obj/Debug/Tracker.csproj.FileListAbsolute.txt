@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Tracker\bin\Debug\Tracker.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Tracker\bin\Debug\Tracker.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Tracker\bin\Debug\Tracker.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Tracker\obj\Debug\Tracker.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Tracker\obj\Debug\Tracker.pdb

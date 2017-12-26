@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.exe.config
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.exe
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\bin\Debug\Hell.pdb
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.exe
+C:\softuni\C# OOP Advanced\exams\Hell-Skeleton\Hell-Skeleton\Hell-Skeleton\Hell\obj\Debug\Hell.pdb

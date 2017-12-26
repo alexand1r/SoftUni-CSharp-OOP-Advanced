@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe.config
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\02.Graphic Editor\bin\Debug\02.Graphic Editor.exe
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\02.Graphic Editor\bin\Debug\02.Graphic Editor.pdb
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\02.Graphic Editor\obj\Debug\02.Graphic Editor.exe
+C:\softuni\C# OOP Advanced\homework\SOLID\07. CSharp-OOP-Advanced-SOLID-Lab-Skeleton\02.Graphic Editor\obj\Debug\02.Graphic Editor.pdb

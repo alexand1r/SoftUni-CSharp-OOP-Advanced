@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Rank\bin\Debug\Card Rank.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Rank\bin\Debug\Card Rank.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Rank\bin\Debug\Card Rank.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Rank\obj\Debug\Card Rank.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Rank\obj\Debug\Card Rank.pdb

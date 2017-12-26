@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\bin\Debug\Harvesting Fields.exe.config
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\bin\Debug\Harvesting Fields.exe
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\bin\Debug\Harvesting Fields.pdb
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\obj\Debug\Harvesting Fields.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\obj\Debug\Harvesting Fields.exe
+C:\softuni\C# OOP Advanced\homework\Reflection\Harvesting Fields\obj\Debug\Harvesting Fields.pdb

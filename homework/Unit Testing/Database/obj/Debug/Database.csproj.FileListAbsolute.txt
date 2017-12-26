@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\bin\Debug\Database.exe.config
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\bin\Debug\Database.exe
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\bin\Debug\Database.pdb
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\obj\Debug\Database.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\obj\Debug\Database.exe
+C:\softuni\C# OOP Advanced\homework\Unit Testing\Database\obj\Debug\Database.pdb

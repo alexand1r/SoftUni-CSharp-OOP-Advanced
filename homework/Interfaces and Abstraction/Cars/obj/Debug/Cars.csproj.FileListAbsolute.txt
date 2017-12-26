@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\bin\Debug\Cars.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\bin\Debug\Cars.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\bin\Debug\Cars.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\obj\Debug\Cars.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\obj\Debug\Cars.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\Cars\obj\Debug\Cars.csprojResolveAssemblyReference.cache

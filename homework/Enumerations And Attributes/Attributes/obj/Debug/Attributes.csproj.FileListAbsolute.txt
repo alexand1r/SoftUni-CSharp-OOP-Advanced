@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Attributes\bin\Debug\Attributes.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Attributes\bin\Debug\Attributes.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Attributes\bin\Debug\Attributes.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Attributes\obj\Debug\Attributes.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Attributes\obj\Debug\Attributes.pdb

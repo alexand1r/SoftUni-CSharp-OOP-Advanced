@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Threeuple\bin\Debug\Threeuple.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Threeuple\bin\Debug\Threeuple.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Threeuple\bin\Debug\Threeuple.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Threeuple\obj\Debug\Threeuple.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Threeuple\obj\Debug\Threeuple.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\Tuple\bin\Debug\Tuple.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\Tuple\bin\Debug\Tuple.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Tuple\bin\Debug\Tuple.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\Tuple\obj\Debug\Tuple.exe
+C:\softuni\C# OOP Advanced\homework\Generics\Tuple\obj\Debug\Tuple.pdb

@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Game\bin\Debug\Card Game.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Game\bin\Debug\Card Game.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Game\bin\Debug\Card Game.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Game\obj\Debug\Card Game.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Card Game\obj\Debug\Card Game.pdb

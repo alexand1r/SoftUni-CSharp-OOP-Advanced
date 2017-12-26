@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\BorderControl2\bin\Debug\BorderControl2.exe.config
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\BorderControl2\bin\Debug\BorderControl2.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\BorderControl2\bin\Debug\BorderControl2.pdb
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\BorderControl2\obj\Debug\BorderControl2.exe
+C:\softuni\C# OOP Advanced\homework\Interfaces and Abstraction\BorderControl2\obj\Debug\BorderControl2.pdb

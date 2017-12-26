@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\bin\Debug\Froggy.exe.config
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\bin\Debug\Froggy.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\bin\Debug\Froggy.pdb
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\obj\Debug\Froggy.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\obj\Debug\Froggy.exe
+C:\softuni\C# OOP Advanced\homework\Iterators And Comparators\Froggy\obj\Debug\Froggy.pdb

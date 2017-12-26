@@ -1,0 +1,6 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\bin\Debug\Inferno Infinity.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\bin\Debug\Inferno Infinity.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\bin\Debug\Inferno Infinity.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\obj\Debug\Inferno Infinity.csprojResolveAssemblyReference.cache
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\obj\Debug\Inferno Infinity.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Inferno Infinity\obj\Debug\Inferno Infinity.pdb

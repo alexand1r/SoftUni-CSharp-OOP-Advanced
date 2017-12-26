@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\GenericBoxString\bin\Debug\GenericBoxString.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\GenericBoxString\bin\Debug\GenericBoxString.exe
+C:\softuni\C# OOP Advanced\homework\Generics\GenericBoxString\bin\Debug\GenericBoxString.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\GenericBoxString\obj\Debug\GenericBoxString.exe
+C:\softuni\C# OOP Advanced\homework\Generics\GenericBoxString\obj\Debug\GenericBoxString.pdb

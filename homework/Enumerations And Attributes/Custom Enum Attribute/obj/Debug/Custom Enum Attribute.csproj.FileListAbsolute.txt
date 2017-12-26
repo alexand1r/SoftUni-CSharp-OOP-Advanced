@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Custom Enum Attribute\bin\Debug\Custom Enum Attribute.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Custom Enum Attribute\bin\Debug\Custom Enum Attribute.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Custom Enum Attribute\bin\Debug\Custom Enum Attribute.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Custom Enum Attribute\obj\Debug\Custom Enum Attribute.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Custom Enum Attribute\obj\Debug\Custom Enum Attribute.pdb

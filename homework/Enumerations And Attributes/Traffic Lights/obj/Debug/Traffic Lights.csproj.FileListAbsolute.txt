@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Traffic Lights\bin\Debug\Traffic Lights.exe.config
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Traffic Lights\bin\Debug\Traffic Lights.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Traffic Lights\bin\Debug\Traffic Lights.pdb
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Traffic Lights\obj\Debug\Traffic Lights.exe
+C:\softuni\C# OOP Advanced\homework\Enumerations And Attributes\Traffic Lights\obj\Debug\Traffic Lights.pdb

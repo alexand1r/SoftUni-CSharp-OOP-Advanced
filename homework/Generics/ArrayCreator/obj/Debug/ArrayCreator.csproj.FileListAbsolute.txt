@@ -1,0 +1,5 @@
+C:\softuni\C# OOP Advanced\homework\Generics\ArrayCreator\bin\Debug\ArrayCreator.exe.config
+C:\softuni\C# OOP Advanced\homework\Generics\ArrayCreator\bin\Debug\ArrayCreator.exe
+C:\softuni\C# OOP Advanced\homework\Generics\ArrayCreator\bin\Debug\ArrayCreator.pdb
+C:\softuni\C# OOP Advanced\homework\Generics\ArrayCreator\obj\Debug\ArrayCreator.exe
+C:\softuni\C# OOP Advanced\homework\Generics\ArrayCreator\obj\Debug\ArrayCreator.pdb
